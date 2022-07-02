@@ -12,7 +12,10 @@ export default function Home() {
         <title>Ninja List | Home</title>
       </Head>
       <div>
-        <h1 className={styles.title}>Homepage</h1>
+        <h1 className={styles.title}>Homepage.</h1>
+        <h2>
+          Updating heading to see is deployed website responds to github changes
+        </h2>
         <p className={styles.text}>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam,
           deserunt ratione aspernatur ab, laboriosam dignissimos voluptate
