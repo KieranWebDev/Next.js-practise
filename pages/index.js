@@ -8,7 +8,6 @@ import styles from '../styles/Home.module.css';
 export default function Home() {
   return (
     <div>
-      <Navbar />
       <h1>Homepage</h1>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam,
@@ -25,7 +24,6 @@ export default function Home() {
       <Link href="ninjas">
         <a>See Ninja Listings</a>
       </Link>
-      <Footer />
     </div>
   );
 }
